@@ -8,6 +8,7 @@
   box-sizing: border-box;
 }
 .status-bar__column {
+  font-weight: 600;
   width: 33%;
 }
 .status-bar__column:first-child span {
