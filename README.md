@@ -1,3 +1,5 @@
-# Kokoa Clone 2020 Update
+# KakaoTalk clone-coding
 
-CSS got so much better!
+> 개요
+
+메신저 '카카오톡' 모바일 화면을 웹페이지 뷰로 클론코딩
